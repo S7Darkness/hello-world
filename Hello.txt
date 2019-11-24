@@ -1,2 +1,2 @@
 Hello world from manny
-Today is Sunday
+Today is Sunday and the date is 24/11/2019
